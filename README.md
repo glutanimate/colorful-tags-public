@@ -1,4 +1,4 @@
-<p align="center"><img src="screenshots/notification.png"></p>
+<p align="center"><img src="screenshots/screenshot.png"></p>
 
 <h2 align="center">Colorful Tags Add-on for Anki</h2>
 
